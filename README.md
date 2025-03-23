@@ -11,7 +11,7 @@ Fit&Bit is a fitness and health-oriented website that allows users to calculate 
 
 ## How to Use
 
-1. Navigate to the [Fit&Bit website](https://bidyutroy-prog.github.io/Fit-Bit/).
+1. Navigate to the [Fit&Bit website](https://bidyutroy-prog.github.io/FitBit/index.html).
 2. Go to the BMI Calculator page.
 3. Input your height and weight in the provided form.
    - Select your preferred unit (metric or imperial).
